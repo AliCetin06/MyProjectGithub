@@ -13,7 +13,8 @@ public class TwoDListExample {
 		List<String> passwordList = new ArrayList<String>();
 
 		// we store list which is include type of <List<String>> ,, creating two
-		// dimentional list
+		
+		// Dimensional list
 		List<List<String>> credentialList = new ArrayList<List<String>>();
 
 		// 1. rows
@@ -21,6 +22,8 @@ public class TwoDListExample {
 		usernameList.add("admin");
 		usernameList.add("demo");
 		usernameList.add("test");
+		
+		
 
 		// 2. rows
 		passwordList.add("admin");

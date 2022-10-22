@@ -25,7 +25,8 @@ public class IteratorExample {
 		System.out.println("--------");
 		
 		// 2. way to print of all element
-
+		
+									// create a variable of Iterator
 		Iterator<Integer>iterator = numbers.iterator();
 		System.out.println(iterator.hasNext());  // true , Do you have next element?
 		
